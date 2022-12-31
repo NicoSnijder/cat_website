@@ -79,7 +79,6 @@ header {
 
 .sticky-section{
   position:sticky;
-  top: -1px;
 }
 
 /* navigation styles start here */
@@ -308,8 +307,6 @@ h5 {
     var(--base-fontsize) * var(--header-scale) * var(--header-scale) *
       var(--header-scale) * var(--header-scale)
   );
-  margin-top: calc(var(--line-height) * 0.2rem);
-  margin-bottom: calc(var(--line-height) * 0.2rem);
 
   color: var(--accent-bg);
 }
