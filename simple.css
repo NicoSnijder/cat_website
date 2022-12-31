@@ -69,7 +69,8 @@ header {
   background: var(--accent-bg);
   text-align: center;
   width: 100vw;
-  position: relative;
+  position: sticky;
+  top: 0;
   box-sizing: border-box;
   left: 50%;
   right: 50%;
@@ -129,8 +130,7 @@ header {
 }
 
 nav {
-  position: sticky;
-  top: 0;
+  position: absolute;
   text-align: center;
   top: 100%;
   left: 0;
