@@ -50,7 +50,6 @@ header {
   background: var(--accent-bg);
   text-align: center;
   display: flex;
-  min-height: 100vh;
   flex-direction: column;
   flex: 1;
   width: 100vw;
