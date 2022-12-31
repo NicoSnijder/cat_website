@@ -55,6 +55,7 @@ header {
   width: 100vw;
   position: sticky;
   top: 0;
+  left:0;
   box-sizing: border-box;
   margin: 0 auto;
 }
