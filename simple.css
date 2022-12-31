@@ -49,9 +49,7 @@ header {
   padding: 0.2rem, 0.2rem;
   background: var(--accent-bg);
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  flex: 1;
+  display: block;
   width: 100vw;
   position: sticky;
   top: 0;
