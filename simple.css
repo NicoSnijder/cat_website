@@ -54,7 +54,7 @@ body {
   flex-direction: column;
   flex: 1;
   margin: 0 auto;
-  max-width: 45rem;
+  width: 100rem;
   padding: 0 0.5rem;
   overflow-x: hidden;
   word-break: break-word;
@@ -75,6 +75,26 @@ header {
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
+}
+
+.container {
+   max-width: 45rem;
+   padding: 50px 0;
+   margin: 50px auto;
+   position: relative;
+   overflow: hidden;
+}
+
+.container:before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 10%;
+   margin-left: -1px;
+   width: 2px;
+   height: 100%;
+   background: var(--text);
+   z-index: 1;
 }
 
 
