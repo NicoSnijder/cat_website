@@ -40,6 +40,8 @@ html {
   /* Set the font globally */
   font-family: var(--sans-font);
   scroll-behavior: smooth;
+  margin:0;
+  padding:0;
 }
 
 /* Make the header bg full width, but the content inline with body */
@@ -49,11 +51,9 @@ header {
   padding: 0.2rem, 0.2rem;
   background: var(--accent-bg);
   text-align: center;
-  display: block;
   width: 100vw;
   position: sticky;
   top: 0;
-  left:0;
   box-sizing: border-box;
   margin: 0 auto;
 }
