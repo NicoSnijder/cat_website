@@ -40,25 +40,7 @@ html {
   /* Set the font globally */
   font-family: var(--sans-font);
   scroll-behavior: smooth;
-  margin:0;
-  padding:0;
-  left:0;
 }
-
-/* Make the header bg full width, but the content inline with body */
-header {
-  color: var(--bg);
-  border-bottom: 1px solid var(--border);
-  padding: 0.2rem, 0.2rem;
-  background: var(--accent-bg);
-  text-align: center;
-  width: 100vw;
-  position: sticky;
-  top: 0;
-  box-sizing: border-box;
-  margin: 0 auto;
-}
-
 
 /* Make the body a nice central block */
 body {
@@ -77,6 +59,22 @@ body {
   overflow-x: hidden;
   word-break: break-word;
   overflow-wrap: break-word;
+}
+
+/* Make the header bg full width, but the content inline with body */
+header {
+  color: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0.2rem, 0.2rem;
+  background: var(--accent-bg);
+  text-align: center;
+  width: 100vw;
+  position: relative;
+  box-sizing: border-box;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 
@@ -224,7 +222,7 @@ nav a:hover {
   }
 
   nav li {
-    margin-left: 0em;
+    margin-left: 2em;
     margin-bottom: 0;
   }
 
