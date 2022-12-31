@@ -447,7 +447,7 @@ table caption {
 /* Lists */
 ol,
 ul {
-  padding-left: 3rem;
+  padding-left: 0rem;
 }
 
 /* Format forms */
