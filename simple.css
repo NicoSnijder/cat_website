@@ -72,8 +72,7 @@ header {
   position: sticky;
   top: 0;
   box-sizing: border-box;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  margin: auto;
 }
 
 
