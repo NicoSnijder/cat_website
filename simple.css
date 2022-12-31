@@ -307,6 +307,8 @@ h5 {
     var(--base-fontsize) * var(--header-scale) * var(--header-scale) *
       var(--header-scale) * var(--header-scale)
   );
+  margin-top: 0.2px;
+  margin-bottom: calc(var(--line-height) * 0.2rem);
 
   color: var(--accent-bg);
 }
