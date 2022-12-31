@@ -589,8 +589,8 @@ mark {
   background: var(--marked);
 }
 
-main img,
-main video {
+body img,
+body video {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
