@@ -42,6 +42,21 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Make the header bg full width, but the content inline with body */
+header {
+  color: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0.2rem, 0.2rem;
+  background: var(--accent-bg);
+  text-align: center;
+  width: 100vw;
+  position: sticky;
+  top: 0;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+
 /* Make the body a nice central block */
 body {
   color: var(--text);
@@ -59,20 +74,6 @@ body {
   overflow-x: hidden;
   word-break: break-word;
   overflow-wrap: break-word;
-}
-
-/* Make the header bg full width, but the content inline with body */
-header {
-  color: var(--bg);
-  border-bottom: 1px solid var(--border);
-  padding: 0.2rem, 0.2rem;
-  background: var(--accent-bg);
-  text-align: center;
-  width: 100vw;
-  position: sticky;
-  top: 0;
-  box-sizing: border-box;
-  margin: 0 auto;
 }
 
 
@@ -447,7 +448,7 @@ table caption {
 /* Lists */
 ol,
 ul {
-  padding-left: 0rem;
+  padding-left: 3rem;
 }
 
 /* Format forms */
