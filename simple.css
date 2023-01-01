@@ -20,6 +20,7 @@
     --accent-bg: #002e35;
     --text: #212121;
     --text-header: #7c0a02;
+    --header-h5: #002e35;
     --text-light: #232A39;
     /*--border: #232A39;*/
     --border: #002e35;
@@ -38,9 +39,11 @@
     --accent-bg: #2b2b2b;
     --text: #dcdcdc;
     --text-header: #232A39;
+    --header-h5: #dcdcdc;
     --text-light: #ababab;
     --border: #666;
     --accent: #ffb300;
+    --link: #028394;
     --accent-light: #ffecb3;
     --code: #f06292;
     --preformatted: #ccc;
@@ -329,7 +332,7 @@ h5 {
   margin-top: 0px;
   margin-bottom: calc(var(--line-height) * 0.2rem);
 
-  color: var(--accent-bg);
+  color: var(--header-h5);
 }
 
 h6 {
