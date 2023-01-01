@@ -298,7 +298,7 @@ h1 {
   );
   margin-top: calc(var(--line-height) * 1.5rem);
   font-weight: 800;
-  color: var(--accent-bg);
+  color: var(--header-h5);
 }
 
 h2 {
@@ -332,7 +332,7 @@ h5 {
   margin-top: 0px;
   margin-bottom: calc(var(--line-height) * 0.2rem);
 
-  color: var(--header-h5);
+  color: var(--accent-bg);
 }
 
 h6 {
