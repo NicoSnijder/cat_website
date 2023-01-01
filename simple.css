@@ -37,7 +37,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #212121;
-    --bg-nav: #028394;
+    --bg-nav: #dcdcdc;
     --accent-bg: #2b2b2b;
     --text: #dcdcdc;
     --text-header: #232A39;
