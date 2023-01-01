@@ -16,7 +16,7 @@
   --line-height: 1.618;
 
   /* Default (light) theme */
-    --bg: #e7eded;
+    /*--bg: #e7eded;
     --bg-nav: #e7eded;
     --accent-bg: #002e35;
     --text: #212121;
@@ -24,7 +24,7 @@
     --header-h5: #002e35;
     --text-light: #232A39;
     /*--border: #232A39;*/
-    --border: #002e35;
+    /*--border: #002e35;
     --accent: #002e35;
     --link: #ba8503;
     --accent-light: #ff4040;
@@ -34,7 +34,7 @@
   }
 
   /* Dark theme */
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   :root {
     --bg: #252c37;
     --bg-nav: #dcdcdc;
@@ -50,7 +50,7 @@
     --code: #f06292;
     --preformatted: #ccc;
     --disabled: #111;
-  }
+  }*/
   }
 
 // toggle switch
