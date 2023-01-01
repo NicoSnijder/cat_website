@@ -298,7 +298,7 @@ h1 {
   );
   margin-top: calc(var(--line-height) * 1.5rem);
   font-weight: 800;
-  color: var(--header-h5);
+  color: var(--text);
 }
 
 h2 {
