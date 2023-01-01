@@ -34,7 +34,7 @@
   /* Dark theme */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #162c2f;
+    --bg: #212121;
     --accent-bg: #2b2b2b;
     --text: #dcdcdc;
     --text-header: #232A39;
