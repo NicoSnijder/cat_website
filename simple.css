@@ -36,7 +36,7 @@
   /* Dark theme */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #19405c;
+    --bg: #252c37;
     --bg-nav: #dcdcdc;
     --accent-bg: #3c485a;
     --text: #dcdcdc;
