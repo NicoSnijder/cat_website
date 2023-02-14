@@ -33,7 +33,7 @@
     --disabled: #111;
   }
 
-  /* Dark theme */
+  /* Dark theme
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #252c37;
@@ -51,7 +51,7 @@
     --preformatted: #ccc;
     --disabled: #111;
   }
-  }
+  }*/
 
 
 
