@@ -702,9 +702,12 @@ pre code {
   color: var(--bg);
 }
 
+.top {
+  position: sticky;
+  bottom: 20px;
+}
+
 .top img {
   margin-right: 0px;
   max-height: 60px;
-  position: sticky;
-  bottom: 20px;
 }
