@@ -701,14 +701,3 @@ pre code {
   background: var(--accent-bg);
   color: var(--bg);
 }
-
-.top {
-  place-self:end;
-  position: sticky;
-  bottom: 10px;
-}
-
-.top img {
-  margin-right: 0px;
-  max-height: 60px;
-}
