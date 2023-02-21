@@ -703,6 +703,7 @@ pre code {
 }
 
 .top {
+  place-self:end;
   position: sticky;
   bottom: 10px;
 }
