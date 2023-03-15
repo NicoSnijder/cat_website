@@ -418,6 +418,7 @@ input[type="radio"]:enabled:hover {
 details {
   background: var(--accent-bg);
   border: 1px solid var(--border);
+  color: var(--bg);
   border-radius: 5px;
   margin-bottom: 1rem;
 }
