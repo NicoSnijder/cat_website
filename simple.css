@@ -210,7 +210,7 @@ nav a:hover {
     }
 
 
-@media screen and (min-width: 1600px) {
+/*@media screen and (min-width: 1600px) {
   .nav-toggle-label {
     display: none;
   }
@@ -229,7 +229,7 @@ nav a:hover {
     // all: unset; /* this causes issues with Edge, since it's unsupported */
 
     /* the following lines are not from my video, but add Edge support */
-    position: relative;
+  /*  position: relative;
     text-align: left;
     transition: none;
     transform: scale(1,1);
@@ -238,7 +238,7 @@ nav a:hover {
     left: initial;
     /* end Edge support stuff */
 
-    grid-column: 3 / 4;
+    /*grid-column: 3 / 4;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -274,7 +274,7 @@ nav a:hover {
   nav a:hover::before {
     transform: scale(1,1);
   }
-}
+}*/
 
 /* Fix line height when title wraps */
 h1,
