@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link href="simple.css" rel="stylesheet" type="text/css" media="all">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="images/favicon.png" />
+<title>cat_apeldoorn</title>
+</head>
+
+<div class="sticky-section">
+  <header>
+  <h5 class="logo"><a href="index.html"><img src="images/logo3.webp"/></a></h5>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle">
+  <nav>
+    <ul>
+      <li class="nav-item"><a href="index.html">Startpagina</a></li>
+      <li class="nav-item"><a href="les1.html">God Centraal</a></li>
+      <li class="nav-item"><a href="les2.html">Respect voor ouders</a></li>
+      <li class="nav-item"><a href="les4.html">Het goede leven</a></li>
+      <li class="nav-item"><a href="les5.html">Vreugde van de wet</a></li>
+      <li class="nav-item"><a href="les6.html">Ik ben iemand</a></li>
+      <li class="nav-item"><a href="contact.html">Gebed</a></li>
+    </ul>
+  </nav>
+  <label for="nav-toggle" class="nav-toggle-label">
+    <span></span>
+  </label>
+</header>
+</div>
+
+<body>
+
+	<h1>Gebedspunten</h1>
+	<p>
+	Als je wilt dat ik tijdens deze weken ergens voor bid, stuur gerust een
+	gebedspunt door via het onderstaande formulier.
+	</p>
+
+	<form name="contact" class="contact-form with normal" action="/bedankt" method="POST" data-netlify="true">
+   <input type="hidden" name="form-name" value="contact" />
+
+      <div class="form-group">
+      <label class="col-md-4 control-label" for="Subject"></label>
+      <div class="col-md-4">
+          <input id="contact-form-subject" name="Subject" type="text" placeholder="gebedspunt" class="form-control input-md" required="" autocomplete="off">
+      </div>
+   </div>
+
+   <div class="form-group">
+      <label class="col-md-4 control-label" for=""></label>
+      <textarea class="form-control" id="contact-form-message" name="Message" type="text" placeholder="Eventuele uitleg/omschrijving" rows="8"></textarea>
+   </div>
+
+   <div class="form-group">
+      <button type="submit" value="Submit" id="Form-Submit">Verstuur</button>
+   </div>
+</form>
+
+
+
+</body>
+
+<footer>
+  <p>Deze website is gemaakt met behulp van Markdown, HTML
+  en een variatie op
+  <a href="https://simplecss.org">Simple.css</a> met dank aan <a
+     href="https://kevq.uk/about/">Kev Quirk</a>.
+  En de <em>gastheer</em> van de website is <a href="https://netlify.com">Netlify</a>.</p>
+</footer>
+
+</html>
