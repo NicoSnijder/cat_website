@@ -1,0 +1,84 @@
+::: sticky-section
+<div>
+
+##### [![](images/logo3.webp)](index.html) {#section .logo}
+
+-   [Startpagina](index.html)
+-   [Gebed](contact.html)
+
+</div>
+:::
+
+# God de Heilige Geest
+
+## Wie is Hij en wat doet Hij?
+
+## Welkom! \--5 min
+
+1.  Hoe is het met jullie? Goede herfstvakantie gehad?
+2.  Inleiding: We gaan het vandaag hebben over de Heilige Geest.
+3.  Openen met gebed
+4.  Wat weet je van de Heilige Geest? Waar moet je aan denken? \--
+    Opschrijven op het bord.
+
+## Concreet ervaren \-- 15 min
+
+We gaan straks naar de kerkzaal. Ik wil jullie vragen iets voor me te
+zoeken. In de kerkzaal beneden is een voorwerp of ding die naar de
+Heilige Geest verwijst. Er zijn meerdere antwoorden, ik ga wel vragen
+waarom je denkt dat dat object naar de Heilige Geest verwijst.\
+Jullie hebben drie minuten!
+
+### Liturgische Kaars
+
+1.  Vertel over de Liturgische Kaars en waarom we het ontsteken tijdens
+    de dienst
+2.  Ontsteek de Kaars
+3.  Voorbeelden van de Heilige Geest als trooster
+4.  Vragen?
+
+## Observeren en Reflecteren \-- 10 min
+
+We hebben net de liturgische kaars ontstoken. Wat doet het met je? Wat
+gebeurt er eigenlijk? En waarom is het belangrijk of fijn dat we hierbij
+stilstaan in de kerk?
+
+Eventuele antwoorden:
+
+1.  De Heilige Geest is God dichtbij
+2.  Hij troost ons
+3.  Hij herinnert ons eraan dat God terugkomt
+4.  Hij geeft ons kracht
+5.  Licht in de duisternis
+
+## Verkennen Theorie \-- 10 min
+
+Is de Heilige Geest alleen iets van het Nieuwe Testament? Lees de
+teksten op het blad en vul je antwoorden in.
+
+## Toepassen en Experimenteren
+
+De Heilige Geest wordt aan ons gegeven om ons te troosten en te zeggen
+dat we Gods kinderen zijn. Hij herinnert ons eraan dat God met Zijn
+koninkrijk komt.
+
+De Heilige Geest helpt ons ook om goede dingen te doen. Ik wil even een
+experiment doen. Ik ga mijn mobiel ontgrendelen en twee minuten op de
+gang staan. Ik laat het aan jullie over om te beslissen wat jullie de
+komende twee minuten doen.
+
+## Afsluiten
+
+We hebben het vandaag gehad over de Heilige Geest en geleerd wie Hij is.
+
+1.  Trooster
+2.  Geeft kracht om het goede te doen
+3.  Herinnert ons eraan dat we Gods kinderen zijn
+4.  God dichtbij
+5.  Licht
+6.  In de kerk
+
+Deze website is gemaakt met behulp van Markdown, HTML en een variatie op
+[Simple.css](https://simplecss.org) met dank aan [Kev
+Quirk](https://kevq.uk/about/). En de *gastheer* van de website is
+[Netlify](https://netlify.com).
